@@ -9,3 +9,7 @@ function saybye()
 {
     console.log("bye")
 }
+function add(a,b)
+{
+    return a+b
+}
