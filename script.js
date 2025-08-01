@@ -1,4 +1,8 @@
 function sayhello()
 {
-  console.log("ho")
+    console.log("ho");
+}
+function isbaove()
+{
+  return age>18;
 }

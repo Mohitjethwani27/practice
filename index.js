@@ -1,8 +1,11 @@
 const age=24; 
 const name='mohit';
 const dob='01/01/2000';
-
-function me()
+const myname=()=>
 {
-console.log("me");
+    console.log("my name is mohit jethwani");
+}
+function saybye()
+{
+    console.log("bye")
 }
