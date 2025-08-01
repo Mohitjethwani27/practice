@@ -5,3 +5,7 @@ const myname=()=>
 {
     console.log("my name is mohit jethwani");
 }
+function saybye()
+{
+    console.log("bye")
+}
